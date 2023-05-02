@@ -35,5 +35,5 @@ Nadat je de wallet hebt geïnstalleerd moet je verbinding maken met de [Binance 
 
    ![1683056749654](image/README/1683056749654.png)
 2. Volg de instructies in dit [artikel](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
-3. Belangrijk is dat je in de vorige stap de RPC URL goed hebt ingevuld, dat is dus https://bsc-dataseed.binance.org/. Als het goed is volgt de rest dan vanzelf en can je met je wallet connectie maken met de Binance Smart Chain
+3. Belangrijk is dat je in de vorige stap de RPC URL goed hebt ingevuld, dat is dus https://bsc-dataseed.binance.org/. Als het goed is volgt de rest dan vanzelf en kan je met je wallet connectie maken met de Binance Smart Chain
 4. Zorg ervoor dat je een backup maakt van je wallet door de getoonde 12 woorden (pass phrase) ergens op te schrijven en goed te bewaren (niet in de cloud....)
