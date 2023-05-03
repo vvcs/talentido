@@ -70,7 +70,7 @@ Zodra de NFT is goedgekeurd kan je hem *minten*, dat is het proces om de NFT op 
 
 ## Transacties op de chain
 
-Je hebt vanuit de vorige stap een beetje BNB nodig om de transacties via de blockchain af te kunnen handelen voor de zogenaamde *gasfee*, het bedrag voor een transactie op de infrastructuur. Je zal merken dat je een aantal transacties met contracten moet goedkeuren om de NFT uiteindelijk in de etalage te krijgen. Dat ziet er ongeveer zo uit, in werkelijkheid zie je dit soort bevestigingeneen paar keer voorbij komen:
+Je hebt vanuit de vorige stap een beetje BNB nodig om de transacties af te kunnen handelen voor de zogenaamde *gas fee*, het bedrag dat wordt betaald voor een transactie op de blockchain. Je zal merken dat je een aantal transacties met contracten moet goedkeuren om de NFT uiteindelijk in de etalage te krijgen. Dat ziet er ongeveer zo uit, in werkelijkheid zie je dit soort bevestigingen een paar keer voorbij komen:
 
 ![1683122986398](image/README/1683122986398.png)
 
