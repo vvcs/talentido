@@ -1,8 +1,8 @@
 # TalentIDO
 
-[TalentIDO](https://talentido.com/about-us) is een NFT Marktplaats voor sporters om hun talenten te laten zien en een fanbase te onderhouden. Spelers kunnen hier zelf NFTs maken en in de marktplaats zetten.
+[TalentIDO](https://talentido.com/about-us) is een NFT Marktplaats voor sporters om hun talenten te laten zien en een fanbase te onderhouden. Spelers kunnen hier zelf NFTs maken en in de marktplaats zetten. [Hier](https://medium.com/@talentidosocial) is meer informatie.
 
-# NFT?
+# NFT
 
 Een Non Fungible Token (NFT) is een uniek digitaal eigendomsbewijs dat specifieke karaktereigenschappen heeft:
 
@@ -56,7 +56,7 @@ Zorg dat je het landnummer wijzigt naar +31 en dan je mobiele nummer zonder de 0
 
 # NFTs maken
 
-Het idee van een NFT marktplaats is natuurlijk om NFTs te verhandelen. TalentIDO stelt je in staat om zelf een NFT te maken en op het platform te verhandelen. Nadat je bent ingelogd kom je op een overzichtpagina van je profiel. Klik dan op `My Collections`:
+Het idee van een NFT marktplaats is natuurlijk om NFTs te verhandelen. TalentIDO stelt je in staat om zelf een NFT te maken en op het platform te verhandelen. Nadat je bent ingelogd kom je op een overzichtpagina van je profiel of ga naar `Dashboard`. Klik dan op `My Collections`:
 
 ![1683106720873](image/README/1683106720873.png)
 
