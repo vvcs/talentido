@@ -13,13 +13,13 @@ Een Non Fungible Token (NFT) is een uniek digitaal eigendomsbewijs dat specifiek
 
 Voor meer informatie over NFTs, kijk [hier](https://www.crypto-insiders.nl/academy/wat-zijn-non-fungible-tokens-nft/).
 
-# Onboarding TalentIDO
+# Opstarten
 
 Om gebruik te maken van de NFT Marktplaats heeft VVCS een contract afgesloten met TalentIDO. Daarvoor moet je je eerst op de website van TalentIDO aanmelden als speler. Dat gaat het makkelijkst als je een aantal zaken hebt voorbereid:
 
 * je hebt een laptop of een PC tot je beschikking
 * je hebt een crypto-wallet zoals [MetaMask](https://metamask.io/) of [WalletConnect](https://walletconnect.com/) geinstalleerd
-* je hebt je ID kaart of rijbewijs bij de hand (voor de verificatie van jou als persoon)
+* je hebt je ID kaart of rijbewijs bij de hand (voor de registratie van jou als persoon)
 
 ## Laptop of PC
 
@@ -37,3 +37,19 @@ Nadat je de wallet hebt geïnstalleerd moet je verbinding maken met de [Binance 
 2. Volg de instructies in dit [artikel](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 3. Belangrijk is dat je in de vorige stap de RPC URL goed hebt ingevuld, dat is dus https://bsc-dataseed.binance.org/. Als het goed is volgt de rest dan vanzelf en kan je met je wallet connectie maken met de Binance Smart Chain
 4. Zorg ervoor dat je een backup maakt van je wallet door de getoonde 12 woorden (pass phrase) ergens op te schrijven en goed te bewaren (niet in de cloud....)
+
+## Registreren en inloggen
+
+Voordat je gebruik kan maken van de marktplaats en je wallet daarmee kan verbinden moet je registreren. Dat is een vrij omslachtig KYC (Know Your Customer) proces, verplicht voor dit soort platformen die crypto verhandelen. Het begint met de registratie van een emailadres en password zoals gebruikelijk, als je op `Join us` klikt:
+
+![1683093196953](image/README/1683093196953.png)
+
+Volg het proces en bevestig je emailadres, daarna klik je op de knop `Confirm`
+
+![1683093415549](image/README/1683093415549.png)
+
+Daarna wordt om je mobiele nummer gevraagd, belangrijk voor de verdere communicatie:
+
+![1683093497801](image/README/1683093497801.png)
+
+Zorg dat je het landnummer wijzigt naar +31 en dan je mobiele nummer zonder de 0 intypen. Vervolgens wordt je naar een KYC proces geleid, waarbij je een foto van jezelf moet maken. Doe dit via je telefoon en houd je ID kaart en rijbewijs bij de hand, daar moet je ook een foto van maken. Volg het proces stap voor stap en uiteindelijk ben je dan geregistreerd en kan je je wallet met de website verbinden.
