@@ -60,4 +60,22 @@ Het idee van een NFT marktplaats is natuurlijk om NFTs te verhandelen. TalentIDO
 
 ![1683106720873](image/README/1683106720873.png)
 
-In bovenstaand plaatje is al een voorbeeld NFT aangemaakt, door op de plus te klikken kan je een NFT aanmaken met je eigen foto en een handtekening. Dan komt de NFT in status `In Storage` te staan en `pending`. Zodra de NFT is goedgekeurd kan je hem verkopen.
+In bovenstaand plaatje is al een voorbeeld NFT aangemaakt, door op de plus te klikken kan je een NFT aanmaken met je eigen foto en een handtekening. Dan komt de NFT in status `In Storage` te staan en `pending`. 
+
+## Minten
+
+Zodra de NFT is goedgekeurd kan je hem *minten*, dat is het proces om de NFT op de blockchain vast te leggen zodat je hem kan verkopen. Zorg dat je voor een klein bedrag ( zeg €20 ) ook de crypto-valuta BNB (Binance Coin) koopt via MetaMask en iDEAL of Creditcard. Dat kan vanuit de wallet door op `Buy` te klikken en dan je wallet adres te koppelen, dat ziet er zo uit:
+
+![1683122612615](image/README/1683122612615.png)
+
+## Transacties op de chain
+
+Je hebt vanuit de vorige stap een beetje BNB nodig om de transacties via de blockchain af te kunnen handelen voor de zogenaamde *gasfee*, het bedrag voor een transactie op de infrastructuur. Je zal merken dat je een aantal transacties met contracten moet goedkeuren om de NFT uiteindelijk in de etalage te krijgen. Dat ziet er ongeveer zo uit, in werkelijkheid zie je dit soort bevestigingeneen paar keer voorbij komen:
+
+![1683122986398](image/README/1683122986398.png)
+
+![1683123022408](image/README/1683123022408.png)
+
+Uiteindelijk kan je dan je NFT gaan verkopen, dan ziet je kaartje er zo uit:
+
+![1683123232559](image/README/1683123232559.png)
