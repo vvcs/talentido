@@ -53,3 +53,11 @@ Daarna wordt om je mobiele nummer gevraagd, belangrijk voor de verdere communica
 ![1683093497801](image/README/1683093497801.png)
 
 Zorg dat je het landnummer wijzigt naar +31 en dan je mobiele nummer zonder de 0 intypen. Vervolgens wordt je naar een KYC proces geleid, waarbij je een foto van jezelf moet maken. Doe dit via je telefoon en houd je ID kaart of rijbewijs bij de hand, daar moet je ook een foto van maken. Volg het proces stap voor stap en uiteindelijk ben je dan geregistreerd en kan je je wallet met de website verbinden.
+
+# NFTs maken
+
+Het idee van een NFT marktplaats is natuurlijk om NFTs te verhandelen. TalentIDO stelt je in staat om zelf een NFT te maken en op het platform te verhandelen. Nadat je bent ingelogd kom je op een overzichtpagina van je profiel. Klik dan op `My Collections`:
+
+![1683106720873](image/README/1683106720873.png)
+
+In bovenstaand plaatje is al een voorbeeld NFT aangemaakt, door op de plus te klikken kan je een NFT aanmaken met je eigen foto en een handtekening. Dan komt de NFT in status `In Storage` te staan en `pending`. Zodra de NFT is goedgekeurd kan je hem verkopen.
