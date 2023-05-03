@@ -52,4 +52,4 @@ Daarna wordt om je mobiele nummer gevraagd, belangrijk voor de verdere communica
 
 ![1683093497801](image/README/1683093497801.png)
 
-Zorg dat je het landnummer wijzigt naar +31 en dan je mobiele nummer zonder de 0 intypen. Vervolgens wordt je naar een KYC proces geleid, waarbij je een foto van jezelf moet maken. Doe dit via je telefoon en houd je ID kaart en rijbewijs bij de hand, daar moet je ook een foto van maken. Volg het proces stap voor stap en uiteindelijk ben je dan geregistreerd en kan je je wallet met de website verbinden.
+Zorg dat je het landnummer wijzigt naar +31 en dan je mobiele nummer zonder de 0 intypen. Vervolgens wordt je naar een KYC proces geleid, waarbij je een foto van jezelf moet maken. Doe dit via je telefoon en houd je ID kaart of rijbewijs bij de hand, daar moet je ook een foto van maken. Volg het proces stap voor stap en uiteindelijk ben je dan geregistreerd en kan je je wallet met de website verbinden.
